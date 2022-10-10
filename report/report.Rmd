@@ -1,0 +1,33 @@
+---
+title: "Working document - Preliminary simulation study"
+# author: "Marta Bofill Roig"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    code_folding: hide 
+    theme: flatly  
+    includes:
+      after_body: footer.html
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+# Preface
+
+# Code 
+
+# Methods
+
+# Simulations
+
+# Wrapping up
