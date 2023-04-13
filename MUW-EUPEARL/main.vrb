@@ -1,0 +1,6 @@
+\frametitle{R Code}
+
+	\begin{lstlisting}
+		@fixmodel_bin@(data, arm, alpha = 0.025, ncc = TRUE, check = TRUE, ...)
+	\end{lstlisting}
+	
