@@ -1,11 +1,11 @@
 \babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
-\beamer@sectionintoc {2}{Section 1}{5}{0}{2}
-\beamer@sectionintoc {3}{Section 2}{6}{0}{3}
-\beamer@sectionintoc {4}{Section 3}{7}{0}{4}
-\beamer@sectionintoc {5}{Content}{8}{0}{5}
-\beamer@sectionintoc {6}{Figures}{10}{0}{6}
-\beamer@sectionintoc {7}{Some \LaTeX {} Examples}{12}{0}{7}
-\beamer@subsectionintoc {7}{1}{Tables}{12}{0}{7}
-\beamer@subsectionintoc {7}{2}{Mathematics}{13}{0}{7}
-\beamer@subsectionintoc {7}{3}{R Code}{14}{0}{7}
+\beamer@sectionintoc {1}{Introduction}{5}{0}{1}
+\beamer@sectionintoc {2}{Section 1}{6}{0}{2}
+\beamer@sectionintoc {3}{Section 2}{7}{0}{3}
+\beamer@sectionintoc {4}{Section 3}{8}{0}{4}
+\beamer@sectionintoc {5}{Content}{9}{0}{5}
+\beamer@sectionintoc {6}{Figures}{11}{0}{6}
+\beamer@sectionintoc {7}{Some \LaTeX {} Examples}{13}{0}{7}
+\beamer@subsectionintoc {7}{1}{Tables}{13}{0}{7}
+\beamer@subsectionintoc {7}{2}{Mathematics}{14}{0}{7}
+\beamer@subsectionintoc {7}{3}{R Code}{15}{0}{7}

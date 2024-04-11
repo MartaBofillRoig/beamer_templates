@@ -112,6 +112,24 @@
 }
 }
 %
+
+\newcommand{\titlepageBluenNoFootline}{ % % This block is for the white background title page
+\setbeamertemplate{footline}{} 
+\setbeamertemplate{title page}
+  { \vspace{2cm}
+    \begin{beamercolorbox}[wd=0.9\paperwidth,dp=2ex,left]{title in head/foot}%
+    \usebeamerfont{title}{\Huge\inserttitle\par}
+    \bigskip
+    \usebeamerfont{author}{\normalsize\insertauthor\par}
+    \smallskip
+    \usebeamerfont{institute}{\normalsize\insertinstitute\par}
+    \bigskip
+    \usebeamerfont{date}\insertdate\par
+    \end{beamercolorbox}
+  }
+\setbeamercolor{background canvas}{bg=blueUPC}  
+}
+%
 \newcommand{\titlepageBlue}{ % % This block is for the white background title page
 \setbeamertemplate{footline}
   {\hbox{%
