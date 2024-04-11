@@ -1,8 +1,15 @@
 # Beamer templates 
 
-Medical University of Vienna (MUW) and EU-PEARL Presentation LaTeX Template based on 
+Presentation LaTeX Templates based on 
 https://www.overleaf.com/latex/templates/medical-university-of-vienna-muw-presentation/dfhwmhfgkjck
 
 
-This template has two beamer colour themes, one according to the university (beamercolorthemeMUW.sty) and the other according to the project (beamercolorthemeEUPEARL.sty). 
+## MUW-EUPEARL folder
+
+This template has two beamer colour themes, one according to the Medical University of Vienna (MUW) (beamercolorthemeMUW.sty) and the other according to the EU-PEARL  project (beamercolorthemeEUPEARL.sty). 
 Original MUW footlines are included together with two additional ones. For EU-PEARL, there are two footlines available. Title slides are predefined by style (e.g. \titlepageWhite and \titlepageWhiteEUP for MUW and EUPEARL templates).
+
+
+## UPC folder
+
+This template has one beamer colour theme according to the corporate colours of the Universitat Politècnica de Catalunya (UPC). 
