@@ -114,7 +114,13 @@
 %
 
 \newcommand{\titlepageBluenNoFootline}{ % % This block is for the white background title page
-\setbeamertemplate{footline}{} 
+\setbeamertemplate{footline}{
+	 \begin{beamercolorbox}[wd=0.9\paperwidth,dp=2ex,left]{title in head/foot}%
+	    	\hspace{5cm} \vspace{0.15cm}
+		\includegraphics[width=1.2cm]{Logos/GRBIO_blue}%
+		\includegraphics[width=3cm]{Logos/UPC_blue}%
+	  \end{beamercolorbox}
+} 
 \setbeamertemplate{title page}
   { \vspace{2cm}
     \begin{beamercolorbox}[wd=0.9\paperwidth,dp=2ex,left]{title in head/foot}%
