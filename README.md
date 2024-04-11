@@ -1,7 +1,5 @@
-README
+Beamer templates
 ================
-
-# Beamer templates
 
 Presentation LaTeX Templates based on
 <https://www.overleaf.com/latex/templates/medical-university-of-vienna-muw-presentation/dfhwmhfgkjck>
