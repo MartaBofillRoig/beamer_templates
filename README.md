@@ -12,4 +12,4 @@ Original MUW footlines are included together with two additional ones. For EU-PE
 
 ## UPC folder
 
-This template has one beamer colour theme according to the corporate colours of the Universitat Politècnica de Catalunya (UPC). 
+This template has one beamer colour theme according to the [corporate colours] (https://www.upc.edu/comunicacio/ca/identitat/principis-de-la-normativa-grafica) of the Universitat Politècnica de Catalunya (UPC). 
