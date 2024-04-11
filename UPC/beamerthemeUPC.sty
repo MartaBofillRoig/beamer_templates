@@ -186,21 +186,6 @@
 \setbeamertemplate{itemize items}{$\bullet$}
 \setbeamerfont{framesubtitle}{parent=frametitle,size=\large}
 
-\newcommand{\blackSlide}{ 
-\setbeamercolor{background canvas}{bg=black}
-\setbeamercolor{palette primary}{fg=white, bg=black}
-\setbeamercolor{normal text}{fg=white}
-\setbeamercolor{structure}{fg=white}
-\setbeamercolor{itemize item}{fg=white}
-\setbeamercolor{itemize subitem}{fg=white}
-\setbeamercolor{itemize subsubitem}{fg=white}
-\setbeamercolor{itemize/enumerate body}{fg=white}
-\setbeamercolor{itemize/enumerate subbody}{fg=white}
-\setbeamercolor{itemize/enumerate subsubbody}{fg=white}
-}
-
-
-
 
 \newcommand{\sectionheaderWhite}{
  \setbeamercolor{background canvas}{bg=white}
@@ -212,32 +197,7 @@
         \hskip1ex \Large \strut\insertframesubtitle\strut \par
    \end{beamercolorbox}
  }
-}
-
-\newcommand{\sectionheaderSkin}{
- \setbeamercolor{background canvas}{bg=skinMUW}
- \setbeamertemplate{frametitle}{\nointerlineskip
-   \begin{beamercolorbox}[sep=0.3cm,ht=7cm,wd=\paperwidth]{skinMUW}
-        \vbox{}\vskip-2ex 
-        \Huge \hskip1ex \insertframetitle \par
-        \vskip0.25ex%
-        \hskip1ex \Large \strut\insertframesubtitle\strut \par
-   \end{beamercolorbox}
- }
-}
-
-\newcommand{\sectionheaderGreen}{
- \setbeamercolor{background canvas}{bg=greenMUW}
- \setbeamertemplate{frametitle}{\nointerlineskip
-   \begin{beamercolorbox}[sep=0.3cm,ht=7cm,wd=\paperwidth]{greenMUW}
-        \vbox{}\vskip-2ex 
-        \Huge \hskip1ex \insertframetitle \par
-        \vskip0.25ex%
-        \hskip1ex \Large \strut\insertframesubtitle\strut \par
-   \end{beamercolorbox}
- }
-}
-
+} 
 
 
 \makeatother
