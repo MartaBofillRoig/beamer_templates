@@ -1,9 +1,8 @@
 \babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{Introduction}{5}{0}{1}
-\beamer@sectionintoc {2}{Section 1}{6}{0}{2}
-\beamer@sectionintoc {3}{Content}{7}{0}{3}
-\beamer@sectionintoc {4}{Figures}{9}{0}{4}
-\beamer@sectionintoc {5}{Some \LaTeX {} Examples}{11}{0}{5}
-\beamer@subsectionintoc {5}{1}{Tables}{11}{0}{5}
-\beamer@subsectionintoc {5}{2}{Mathematics}{12}{0}{5}
-\beamer@subsectionintoc {5}{3}{R Code}{13}{0}{5}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Section 1}{4}{0}{2}
+\beamer@sectionintoc {3}{Content}{5}{0}{3}
+\beamer@sectionintoc {4}{Some \LaTeX {} Examples}{7}{0}{4}
+\beamer@subsectionintoc {4}{1}{Tables}{7}{0}{4}
+\beamer@subsectionintoc {4}{2}{Mathematics}{8}{0}{4}
+\beamer@subsectionintoc {4}{3}{R Code}{9}{0}{4}
